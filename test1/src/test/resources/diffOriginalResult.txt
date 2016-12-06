@@ -1,0 +1,23 @@
+2,3c2,3
+< and   the  earth.   Now  the  earth  was
+< formless  and empty,  darkness was  over
+---
+> and   the   earth.  Now  the  earth  was
+> formless  and  empty,  darkness was over
+5c5
+< of  God was  hovering over  the  waters.
+---
+> of  God  was  hovering  over the waters.
+9c9
+< was  good, and  he separated  the  light
+---
+> was  good,  and  he  separated the light
+11c11
+< "day,"   and  the   darkness  he  called
+---
+> "day,"   and   the  darkness  he  called
+13c13
+< there  was  morning  -  the  first  day.
+---
+> there  was  morning  -  the  first  day.
+\ No newline at end of file
