@@ -7,7 +7,7 @@ import org.junit.Test;
 import br.com.idwall.util.FileUtil;
 import br.com.idwall.util.StringFormmater;
 
-public class AllTests {
+public class AllTest {
 
 	@Test
 	public void testReadFile() {
